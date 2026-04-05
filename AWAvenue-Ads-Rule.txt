@@ -220,7 +220,6 @@
 ||api.ad.xiaomi.com^
 ||api.anythinktech.com^
 ||api.aqyad.com^
-||api.e.kuaishou.com^
 ||api.fu.xcultur.com^
 ||api.htp.hubcloud.com.cn^
 ||api.hzsanjiaomao.com^
@@ -366,7 +365,6 @@
 ||file.daihuo.qq.com^
 ||firebaselogging-pa.googleapis.com^
 ||flurry.com^
-||frontend-perf-service.e.kuaishou.com^
 ||fxgate.baidu.com^
 ||g-adnet.hiaiabc.com^
 ||g-staic.ganjingworld.com^
@@ -583,9 +581,6 @@
 ||ogads-pa.clients6.google.com^
 ||omgmta.play.aiseet.atianqi.com^
 ||open-set-api.shenshiads.com^
-||open.e.kuaishou.cn^
-||open.e.kuaishou.com^
-||open.kuaishouzt.com^
 ||open.kwaizt.com^
 ||open.snssdk.com^
 ||openadapi.fancydsp.com^
@@ -633,7 +628,6 @@
 ||policy.video.ptqy.gitv.tv^
 ||pos.baidu.com^
 ||prod-mediate-events.applovin.com^
-||promotion-partner.kuaishou.com^
 ||proxy.advp.apple.com^
 ||public.gdtimg.com^
 ||q.i.gdt.qq.com^
